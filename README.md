@@ -1,0 +1,1 @@
+This is a Markdown Previewer application built using React. It allows users to write Markdown text in an editor and see the corresponding preview in real-time.
